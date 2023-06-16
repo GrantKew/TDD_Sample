@@ -1,0 +1,104 @@
+[
+  {
+    "YOM": 2019,
+    "CarType": "Sedan",
+    "Id": "1",
+    "Name": "Toyota Camry"
+  },
+  {
+    "YOM": 2022,
+    "CarType": "SUV",
+    "Id": "2",
+    "Name": "Honda CR-V"
+  },
+  {
+    "YOM": 2018,
+    "CarType": "Hatchback",
+    "Id": "3",
+    "Name": "Volkswagen Golf"
+  },
+  {
+    "YOM": 2021,
+    "CarType": "Pickup",
+    "Id": "4",
+    "Name": "Ford F-150"
+  },
+  {
+    "YOM": 2020,
+    "CarType": "Coupe",
+    "Id": "5",
+    "Name": "Chevrolet Camaro"
+  },
+  {
+    "YOM": 2023,
+    "CarType": "Sedan",
+    "Id": "6",
+    "Name": "Mercedes-Benz E-Class"
+  },
+  {
+    "YOM": 2017,
+    "CarType": "SUV",
+    "Id": "7",
+    "Name": "Jeep Grand Cherokee"
+  },
+  {
+    "YOM": 2022,
+    "CarType": "Hatchback",
+    "Id": "8",
+    "Name": "BMW 3 Series"
+  },
+  {
+    "YOM": 2019,
+    "CarType": "Pickup",
+    "Id": "9",
+    "Name": "Ram 1500"
+  },
+  {
+    "YOM": 2021,
+    "CarType": "Coupe",
+    "Id": "10",
+    "Name": "Audi A5"
+  },
+  {
+    "YOM": 2020,
+    "CarType": "Sedan",
+    "Id": "11",
+    "Name": "Lexus ES"
+  },
+  {
+    "YOM": 2018,
+    "CarType": "SUV",
+    "Id": "12",
+    "Name": "Subaru Outback"
+  },
+  {
+    "YOM": 2023,
+    "CarType": "Hatchback",
+    "Id": "13",
+    "Name": "Mazda3"
+  },
+  {
+    "YOM": 2017,
+    "CarType": "Pickup",
+    "Id": "14",
+    "Name": "GMC Sierra 1500"
+  },
+  {
+    "YOM": 2022,
+    "CarType": "Coupe",
+    "Id": "15",
+    "Name": "Porsche 911"
+  },
+  {
+    "YOM": 2019,
+    "CarType": "Sedan",
+    "Id": "16",
+    "Name": "Hyundai Sonata"
+  },
+  {
+    "YOM": 2021,
+    "CarType": "SUV",
+    "Id": "17",
+    "Name": "Kia Sportage"
+  }
+]

@@ -1,0 +1,123 @@
+[
+    {
+      "Id": 1,
+      "Name": "Motor Part 1",
+      "Price": 50.00,
+      "Category": "Motor"
+    },
+    {
+      "Id": 2,
+      "Name": "Suspension Part 1",
+      "Price": 30.00,
+      "Category": "Suspension"
+    },
+    {
+      "Id": 3,
+      "Name": "Brake Part 1",
+      "Price": 20.00,
+      "Category": "Brakes"
+    },
+    {
+      "Id": 4,
+      "Name": "Body Part 1",
+      "Price": 100.00,
+      "Category": "Body"
+    },
+    {
+      "Id": 5,
+      "Name": "Interior Part 1",
+      "Price": 15.00,
+      "Category": "Interior"
+    },
+    {
+      "Id": 6,
+      "Name": "Motor Part 2",
+      "Price": 55.00,
+      "Category": "Motor"
+    },
+    {
+      "Id": 7,
+      "Name": "Suspension Part 2",
+      "Price": 40.00,
+      "Category": "Suspension"
+    },
+    {
+      "Id": 8,
+      "Name": "Brake Part 2",
+      "Price": 25.00,
+      "Category": "Brakes"
+    },
+    {
+      "Id": 9,
+      "Name": "Body Part 2",
+      "Price": 110.00,
+      "Category": "Body"
+    },
+    {
+      "Id": 10,
+      "Name": "Interior Part 2",
+      "Price": 20.00,
+      "Category": "Interior"
+    },
+    {
+      "Id": 11,
+      "Name": "Motor Part 3",
+      "Price": 60.00,
+      "Category": "Motor"
+    },
+    {
+      "Id": 12,
+      "Name": "Suspension Part 3",
+      "Price": 35.00,
+      "Category": "Suspension"
+    },
+    {
+      "Id": 13,
+      "Name": "Brake Part 3",
+      "Price": 30.00,
+      "Category": "Brakes"
+    },
+    {
+      "Id": 14,
+      "Name": "Body Part 3",
+      "Price": 120.00,
+      "Category": "Body"
+    },
+    {
+      "Id": 15,
+      "Name": "Interior Part 3",
+      "Price": 25.00,
+      "Category": "Interior"
+    },
+    {
+      "Id": 16,
+      "Name": "Motor Part 4",
+      "Price": 65.00,
+      "Category": "Motor"
+    },
+    {
+      "Id": 17,
+      "Name": "Suspension Part 4",
+      "Price": 50.00,
+      "Category": "Suspension"
+    },
+    {
+      "Id": 18,
+      "Name": "Brake Part 4",
+      "Price": 35.00,
+      "Category": "Brakes"
+    },
+    {
+      "Id": 19,
+      "Name": "Body Part 4",
+      "Price": 130.00,
+      "Category": "Body"
+    },
+    {
+      "Id": 20,
+      "Name": "Interior Part 4",
+      "Price": 193.00,
+      "Category": "Interior"
+    }
+  ]
+
